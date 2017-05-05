@@ -25,5 +25,6 @@ Your presentation must satisfy the following
 View the presentation online at: https://guillermopachon.github.io/DDPCourseProject/DDP_CourseProjectPresentation.html
 
 View the Shiny App online at: https://guillermopachon.shinyapps.io/DDP_CourseProject/
+View the Shine Presentation online at: https://guillermopachon.shinyapps.io/DDP_CourseProjectPresentation/
 
 *Guillermo Pachon, May 2017*
